@@ -7,7 +7,7 @@
 ###  I create games, tools, and mods across multiple languages
 - **languages i work with:** `CSS`, `C++`, `C#`, `HTML`, `JAVASCRIPT`, `PYTHON`, and more 
 
-###  Games I plau
+###  Games I play
 - mostly into popular titles like **Portal**, **Portal 2**, and **REPO**
 
 ---
