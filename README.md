@@ -1,11 +1,17 @@
-#### I am no0ne
+#  i am **no0ne**
 
-# I enjoy ripping things apart, changing them, and sewing them back together
--# Or I enjoy ripping them apart and leaving them or ripping them apart and looking inside and then sewing them back together
+###  i love taking things apart and putting them back together
+- sometimes i just explore the guts of things
+- other times, i tear them apart and rebuild them piece by piece 
 
-I make games, tools, and mods in multiple languages
-Such as: CSS, CPP, C#, HTML, JS, PY, and others
+###  I create games, tools, and mods across multiple languages
+- **languages i work with:** `CSS`, `C++`, `C#`, `HTML`, `JAVASCRIPT`, `PYTHON`, and more 
 
-# I play mostly popular games, like Portal, Portal 2, and REPO.
+###  Games I plau
+- mostly into popular titles like **Portal**, **Portal 2**, and **REPO**
 
-Bye.
+---
+
+thanks for stopping by!
+
+<small>never come back again</small>
