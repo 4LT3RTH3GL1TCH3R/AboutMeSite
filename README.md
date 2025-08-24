@@ -14,4 +14,4 @@
 
 thanks for stopping by!
 
-<small>never come back again</small>
+<sub style="color:gray;">never come back</sub>
